@@ -1,0 +1,8 @@
+How to implement Bottom Navigation in Jetpack Compose.
+1. Add dependency to gradel file
+2. Create a sealed class to define destination, labels, and icons for the bottom navigation.
+3. Create NavHost to handle screen control
+4. Create a navigationController class to navigate users in the app.
+
+For more information you can check out blog.
+----BLOG LINK----

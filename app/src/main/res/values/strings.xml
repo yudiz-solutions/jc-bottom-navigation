@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeBottomNavigation</string>
+    <string name="label_home">Home</string>
+    <string name="label_notification">Notification</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="label_settings">Setting</string>
+</resources>
